@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erik\\Source\\Repos\\siskin\\src\\Siskin\\Siskin.Core\\Siskin.Core.csproj",
+      "projectUniqueName": "C:\\Users\\erik\\siskin\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj",
       "projectName": "Siskin.Core",
-      "projectPath": "C:\\Users\\erik\\Source\\Repos\\siskin\\src\\Siskin\\Siskin.Core\\Siskin.Core.csproj",
+      "projectPath": "C:\\Users\\erik\\siskin\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj",
       "packagesPath": "C:\\Users\\erik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erik\\Source\\Repos\\siskin\\src\\Siskin\\Siskin.Core\\obj\\",
+      "outputPath": "C:\\Users\\erik\\siskin\\siskin\\src\\siskin\\Siskin.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

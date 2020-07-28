@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erik\\Source\\Repos\\siskin\\test\\Siskin.Core.Test\\Siskin.Core.Test.csproj",
+      "projectUniqueName": "C:\\Users\\erik\\siskin\\siskin\\test\\Siskin.Core.Test\\Siskin.Core.Test.csproj",
       "projectName": "Siskin.Core.Test",
-      "projectPath": "C:\\Users\\erik\\Source\\Repos\\siskin\\test\\Siskin.Core.Test\\Siskin.Core.Test.csproj",
+      "projectPath": "C:\\Users\\erik\\siskin\\siskin\\test\\Siskin.Core.Test\\Siskin.Core.Test.csproj",
       "packagesPath": "C:\\Users\\erik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erik\\Source\\Repos\\siskin\\test\\Siskin.Core.Test\\obj\\",
+      "outputPath": "C:\\Users\\erik\\siskin\\siskin\\test\\Siskin.Core.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6918,8 +6918,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\erik\\Source\\Repos\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj": {
-              "projectPath": "C:\\Users\\erik\\Source\\Repos\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj"
+            "C:\\Users\\erik\\siskin\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj": {
+              "projectPath": "C:\\Users\\erik\\siskin\\siskin\\src\\siskin\\Siskin.Core\\Siskin.Core.csproj"
             }
           }
         }

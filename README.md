@@ -1,2 +1,2 @@
-# siskin
-A .NET based discovery service
+# Siskin
+A .NET based discovery service.

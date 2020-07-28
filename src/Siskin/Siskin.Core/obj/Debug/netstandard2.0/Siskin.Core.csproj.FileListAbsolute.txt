@@ -1,8 +1,0 @@
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\bin\Debug\netstandard2.0\Siskin.Core.deps.json
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\bin\Debug\netstandard2.0\Siskin.Core.dll
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\bin\Debug\netstandard2.0\Siskin.Core.pdb
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\obj\Debug\netstandard2.0\Siskin.Core.csprojAssemblyReference.cache
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\obj\Debug\netstandard2.0\Siskin.Core.AssemblyInfoInputs.cache
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\obj\Debug\netstandard2.0\Siskin.Core.AssemblyInfo.cs
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\obj\Debug\netstandard2.0\Siskin.Core.dll
-C:\Users\erik\Source\Repos\siskin\src\siskin\Siskin.Core\obj\Debug\netstandard2.0\Siskin.Core.pdb
